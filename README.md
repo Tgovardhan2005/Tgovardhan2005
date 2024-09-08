@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Govardhan T</h1>
-<h3 align="center">👨‍💻 Computer Science Engineering Student (2023-2027) 📚 2nd Year at Kongu Engineering College 💡 Enthusiastic about coding and learning new technologies.</h3>
+<h3 align="center">👨‍💻 - Coder/Developer
+💡 - Innovative ideas and creativity
+🎓 - Student at Kongu Engineering College
+🔍 - Passion for learning and exploration
+</h3>
 
 - 🌱 I’m currently learning **Data Structures ,JavaScript**
 
