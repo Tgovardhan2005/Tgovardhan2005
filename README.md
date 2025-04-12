@@ -49,8 +49,6 @@ Learning:         Node.js, Express.js, MongoDB, React
 - Implementing data structures and algorithms in various languages
 - Contributing to open-source projects
 
-<br clear="all">
-
 ### ⚡ Fun Fact
 
 When I'm not coding, you can find me exploring new technologies, reading tech blogs, or enhancing my problem-solving skills!
