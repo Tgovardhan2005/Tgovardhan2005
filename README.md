@@ -5,7 +5,7 @@
 🔍 - Passion for learning and exploration
 </h3>
 
-- 🌱 I’m currently learning **Data Structures ,JavaScript**
+- 🌱 I’m currently learning **JavaScript , Node JS , Mongo DB**
 
 - 💬 Ask me about **C , Java , HTML , CSS**
 
