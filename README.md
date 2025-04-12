@@ -39,15 +39,21 @@ Learning:         Node.js, Express.js, MongoDB, React
   </a>
 </div>
 
-### 📚 Current Projects
-
-<img align="left" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" alt="programming gif">
-
-- Building a full-stack web application using MERN stack
-- Solving algorithmic challenges on LeetCode
-- Creating responsive web designs using modern CSS techniques
-- Implementing data structures and algorithms in various languages
-- Contributing to open-source projects
+📚 Current Projects
+<div style="display: flex; align-items: center;">
+  <img align="left" width="220" src="https://i.imgur.com/kJaR3nw.gif" alt="programming gif" style="margin-right: 20px; border-radius: 10px;">
+  <div>
+    <ul>
+      <li>🌐 Building a full-stack web application using MERN stack</li>
+      <li>🧠 Solving algorithmic challenges on LeetCode</li>
+      <li>🎨 Creating responsive web designs using modern CSS techniques</li>
+      <li>🔍 Implementing data structures and algorithms in various languages</li>
+      <li>🤝 Contributing to open-source projects</li>
+    </ul>
+  </div>
+</div>
+<br clear="all">
+<br>
 
 ### ⚡ Fun Fact
 
