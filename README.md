@@ -1,33 +1,64 @@
-<h1 align="center">Hi 👋, I'm Govardhan T</h1>
-<h3 align="center">👨‍💻 - Coder/Developer
-💡 - Innovative ideas and creativity
-🎓 - CSE Student 
-🔍 - Passion for learning and exploration
-</h3>
+# <div align="center">👋 Hi, I'm Govardhan T</div>
 
-- 🌱 I’m currently learning **JavaScript , Node JS , Mongo DB**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="480" height="320">
+</div>
 
-- 💬 Ask me about **C , Java , HTML , CSS**
+## <div align="center">Software Developer | CSE Student | Problem Solver</div>
 
-- 📫 How to reach me **govardhant244@gmail.com**
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<br>
-<p align="left">
-<a href="https://www.linkedin.com/in/govardhan-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govardhan-t" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/govardhan-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="govardhan-coder" height="30" width="40" /></a>
-</p>
+- 🎓 Computer Science Engineering Student passionate about building innovative solutions
+- 💡 Always exploring new technologies and methodologies
+- 🌱 Currently expanding my stack with **JavaScript, Node.js, MongoDB, and Express.js**
+- 🔍 Enthusiastic about algorithmic problem-solving and efficient code
+- 🚀 Looking to collaborate on web development and open-source projects
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/python--v1.png" alt="matlab" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-</p>
-<br>
+### 🛠️ Tech Stack
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/govardhan-coder?theme=dark&font=Carrois%20Gothic&ext=heatmap)<br><br>
+```
+Languages:        C, Java, Python, HTML, CSS, JavaScript
+Development:      Git, VSCode, IntelliJ IDEA
+Learning:         Node.js, Express.js, MongoDB, React
+```
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak">
+</div>
+
+### 🧩 Problem Solving
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/govardhan-coder?theme=dark&font=Carrois%20Gothic&ext=heatmap)
+
+### 🌐 Find Me Around The Web
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/govardhan-t" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.leetcode.com/govardhan-coder" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="mailto:govardhant244@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+### 📚 Current Projects
+
+- Building a full-stack web application using MERN stack
+- Solving algorithmic challenges on LeetCode
+- Creating responsive web designs using modern CSS techniques
+
+### ⚡ Fun Fact
+
+When I'm not coding, you can find me exploring new technologies, reading tech blogs, or enhancing my problem-solving skills!
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=green" alt="Profile Views">
+</div>
