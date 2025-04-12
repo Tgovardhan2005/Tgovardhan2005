@@ -22,8 +22,9 @@ Development:      Git, VSCode, IntelliJ IDEA
 Learning:         Node.js, Express.js, MongoDB, React
 ```
 ### 🧩 Problem Solving
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/govardhan-coder?theme=dark&font=Carrois%20Gothic&ext=heatmap)
+<div align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/govardhan-coder?theme=dark&font=Carrois%20Gothic&ext=heatmap)
+</div>
 
 ### 🌐 Find Me Around The Web
 
@@ -39,21 +40,10 @@ Learning:         Node.js, Express.js, MongoDB, React
   </a>
 </div>
 
-📚 Current Projects
-<div style="display: flex; align-items: center;">
-  <img align="left" width="220" src="https://i.imgur.com/kJaR3nw.gif" alt="programming gif" style="margin-right: 20px; border-radius: 10px;">
-  <div>
-    <ul>
-      <li>🌐 Building a full-stack web application using MERN stack</li>
-      <li>🧠 Solving algorithmic challenges on LeetCode</li>
-      <li>🎨 Creating responsive web designs using modern CSS techniques</li>
-      <li>🔍 Implementing data structures and algorithms in various languages</li>
-      <li>🤝 Contributing to open-source projects</li>
-    </ul>
-  </div>
-</div>
-<br clear="all">
-<br>
+### 📚 Current Projects
+- Building a full-stack web application using MERN stack
+- Solving algorithmic challenges on LeetCode
+- Creating responsive web designs using modern CSS techniques
 
 ### ⚡ Fun Fact
 
@@ -62,5 +52,5 @@ When I'm not coding, you can find me exploring new technologies, reading tech bl
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=green" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Tgovardhan2005&color=green" alt="Profile Views">
 </div>
