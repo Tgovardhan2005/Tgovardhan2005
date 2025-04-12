@@ -21,14 +21,6 @@ Languages:        C, Java, Python, HTML, CSS, JavaScript
 Development:      Git, VSCode, IntelliJ IDEA
 Learning:         Node.js, Express.js, MongoDB, React
 ```
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Tgovardhan2005=T Govardhan&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tgovardhan2005&theme=radical" alt="GitHub Streak">
-</div>
-
 ### 🧩 Problem Solving
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/govardhan-coder?theme=dark&font=Carrois%20Gothic&ext=heatmap)
