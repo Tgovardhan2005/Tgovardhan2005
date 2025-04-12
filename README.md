@@ -22,9 +22,8 @@ Development:      Git, VSCode, IntelliJ IDEA
 Learning:         Node.js, Express.js, MongoDB, React
 ```
 ### 🧩 Problem Solving
-<center>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/govardhan-coder?theme=dark&font=Carrois%20Gothic&ext=heatmap)
-</center>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/govardhan-coder?theme=dark&font=Carrois%20Gothic&ext=heatmap)
 
 
 ### 🌐 Find Me Around The Web
