@@ -1,53 +1,69 @@
 # <div align="center">👋 Hi, I'm Govardhan T</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="480" height="320">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBteWF0OWJ5dnhiZnlwcHV5ZmNidDltc3h6N250cHYydWhpemI5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="550" height="380" alt="Coding Animation">
 </div>
 
 ## <div align="center">Software Developer | CSE Student | Problem Solver</div>
 
-### 👨‍💻 About Me
+### <div align="center">👨‍💻 About Me</div>
 
-- 🎓 Computer Science Engineering Student passionate about building innovative solutions
-- 💡 Always exploring new technologies and methodologies
-- 🌱 Currently expanding my stack with **JavaScript, Node.js, MongoDB, and Express.js**
-- 🔍 Enthusiastic about algorithmic problem-solving and efficient code
-- 🚀 Looking to collaborate on web development and open-source projects
+<div align="center">
+  <p>🎓 Computer Science Engineering Student passionate about building innovative solutions</p>
+  <p>💡 Always exploring new technologies and methodologies</p>
+  <p>🌱 Currently expanding my stack with <b>JavaScript, Node.js, MongoDB, and Express.js</b></p>
+  <p>🔍 Enthusiastic about algorithmic problem-solving and efficient code</p>
+  <p>🚀 Looking to collaborate on web development and open-source projects</p>
+</div>
 
-### 🛠️ Tech Stack
+### <div align="center">🛠️ Tech Stack</div>
 
+<div align="center">
+  
 ```
 Languages:        C, Java, Python, HTML, CSS, JavaScript
 Development:      Git, VSCode, IntelliJ IDEA
 Learning:         Node.js, Express.js, MongoDB, React
 ```
-### 🧩 Problem Solving
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/govardhan-coder?theme=dark&font=Carrois%20Gothic&ext=heatmap)
+</div>
 
+### <div align="center">🧩 Problem Solving</div>
 
-### 🌐 Find Me Around The Web
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/govardhan-coder?theme=dark&font=Carrois%20Gothic&ext=heatmap" alt="LeetCode Stats">
+</div>
+
+### <div align="center">🌐 Find Me Around The Web</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/govardhan-t" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="https://www.leetcode.com/govardhan-coder" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
+  &nbsp;
   <a href="mailto:govardhant244@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
-### 📚 Current Projects
-- Building a full-stack web application using MERN stack
-- Solving algorithmic challenges on LeetCode
-- Creating responsive web designs using modern CSS techniques
+### <div align="center">📚 Current Projects</div>
 
-### ⚡ Fun Fact
+<div align="center">
+  <p>Building a full-stack web application using MERN stack</p>
+  <p>Solving algorithmic challenges on LeetCode</p>
+  <p>Creating responsive web designs using modern CSS techniques</p>
+</div>
 
-When I'm not coding, you can find me exploring new technologies, reading tech blogs, or enhancing my problem-solving skills!
+### <div align="center">⚡ Fun Fact</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF5ZzB0N2YwNzc3ajVoN2hwNjNzYmthbTh4bGR3MHphZTFrYjFsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+  <p>When I'm not coding, you can find me exploring new technologies, reading tech blogs, or enhancing my problem-solving skills!</p>
+</div>
 
 ---
 
