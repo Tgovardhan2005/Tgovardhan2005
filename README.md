@@ -19,13 +19,20 @@
 ### <div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
-  
-```
-Languages:        C, Java, Python, HTML, CSS, JavaScript
-Development:      Git, VSCode, IntelliJ IDEA
-Learning:         Node.js, Express.js, MongoDB, React
-```
-
+  <table border="0" cellspacing="0" cellpadding="0" align="center">
+    <tr>
+      <td align="right"><b>Languages:</b></td>
+      <td align="left">C, Java, Python, HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Development:</b></td>
+      <td align="left">Git, VSCode, IntelliJ IDEA</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Learning:</b></td>
+      <td align="left">Node.js, Express.js, MongoDB, React</td>
+    </tr>
+  </table>
 </div>
 
 ### <div align="center">🧩 Problem Solving</div>
