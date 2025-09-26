@@ -19,20 +19,22 @@
 ### <div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" align="center">
-    <tr>
-      <td align="right"><b>Languages:</b></td>
-      <td align="left">C, Java, Python, HTML, CSS, JavaScript</td>
-    </tr>
-    <tr>
-      <td align="right"><b>Development:</b></td>
-      <td align="left">Git, VSCode, IntelliJ IDEA</td>
-    </tr>
-    <tr>
-      <td align="right"><b>Learning:</b></td>
-      <td align="left">Node.js, Express.js, MongoDB, React</td>
-    </tr>
-  </table>
+
+#### Programming Languages
+<img src="https://skillicons.dev/icons?i=c,java,python,js" alt="Programming Languages" />
+
+#### Frontend Development  
+<img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend" />
+
+#### Backend Development
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" />
+
+#### Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Database" />
+
+#### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+
 </div>
 
 ### <div align="center">🧩 Problem Solving</div>
@@ -60,9 +62,9 @@
 ### <div align="center">📚 Current Projects</div>
 
 <div align="center">
-  <p>Building a full-stack web application using MERN stack</p>
+  <p>Building a full-stack web application using MERN stack & Spring Boot</p>
   <p>Solving algorithmic challenges on LeetCode</p>
-  <p>Creating responsive web designs using modern CSS techniques</p>
+  <p>Creating responsive web designs using modern techniques</p>
 </div>
 
 ### <div align="center">⚡ Fun Fact</div>
