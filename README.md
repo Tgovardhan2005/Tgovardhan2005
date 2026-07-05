@@ -9,7 +9,7 @@
 <div align="center">
   <p>🎓 Computer Science Engineering Student passionate about building innovative solutions</p>
   <p>💡 Always exploring new technologies and methodologies</p>
-  <p>🌱 Currently expanding my stack with <b>Devops and Fullstack</b></p>
+  <p>🌱 Currently expanding my stack with <b>Typescript</b></p>
   <p>🔍 Enthusiastic about algorithmic problem-solving and efficient code</p>
   <p>🚀 Looking to collaborate on web development and open-source projects</p>
 </div>
