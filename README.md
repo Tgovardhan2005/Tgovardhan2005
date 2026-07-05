@@ -1,10 +1,8 @@
-# <div align="center">👋 Hi, I'm Govardhan T</div>
-
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBteWF0OWJ5dnhiZnlwcHV5ZmNidDltc3h6N250cHYydWhpemI5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="550" height="380" alt="Coding Animation">
+  <img width="1584" height="396" alt="Govardhan_" src="https://github.com/user-attachments/assets/c85132ef-c64a-49cd-a0c0-8d0953415271" />
 </div>
 
-## <div align="center">Software Developer | CSE Student | Problem Solver</div>
+## <div align="center">Aspiring Software Developer | CSE Student | Problem Solver</div>
 
 ### <div align="center">👨‍💻 About Me</div>
 
